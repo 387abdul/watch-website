@@ -1,0 +1,10 @@
+.carousel-inner {
+  height: 100vh; /* Full height of the viewport */
+}
+
+.carousel-item img {
+  height: 92vh; /* Full height of the viewport */
+  width: 100%;
+  object-fit: cover; /* Ensure the image covers the entire area */
+  image-rendering: crisp-edges;
+}
